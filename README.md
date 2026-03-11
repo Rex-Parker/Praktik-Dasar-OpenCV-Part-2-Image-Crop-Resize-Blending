@@ -1,0 +1,1 @@
+# Praktik-Dasar-OpenCV-Part-2-Image-Crop-Resize-Blending
